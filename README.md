@@ -11,7 +11,7 @@ Built a local web login application using Python and Flask, then developed and e
 - attack.py: Brute-force testing tool
 - user_list_test.txt: List of test usernames
 - pass_list_test.txt: List of test passwords
-- 
+  
 # What Was Built
 
 - A functional local login page mimicking a real-world web application authentication flow
